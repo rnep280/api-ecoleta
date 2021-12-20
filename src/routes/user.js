@@ -8,19 +8,29 @@ const userController = require('../controllers/user')
 //@access Public
 router.get('/', userController.getAll)
 
+
 //@router POST /api/users/register
 //@desc Criar conta
 //@access Public
 router.post('/register', userController.register)
+
+
+//@router PUT /api/users/update
+//@desc Atualizar dados da conta
+//@access Public
+router.put('/update', userController.update)
+
+
+//@router DELETE /api/users/update
+//@desc Remove a conta 
+//@access Public
+router.delete('/remove', userController.remove)
+
 
 //@router POST /api/users/login
 //@desc Acessar conta
 //@access Public
 router.post('/login', userController.login)
 
-//@router PUT /api/users/update
-//@desc Acessar conta
-//@access Public
-router.put('/update', userController.update)
 
 module.exports = router

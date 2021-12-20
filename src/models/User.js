@@ -12,6 +12,14 @@ const userSchema = new mongoose.Schema({
     password: {
         type: String,
         required: true
+    },
+    security_question: {
+        type: String,
+        required: true
+    },
+    security_response: {
+        type: String,
+        required: true
     }
 
 }, {timestamps: true})

@@ -105,7 +105,6 @@ $ npm start
 
 # O servidor inciará na porta:5200 - acesse <http://localhost:5200/api/users/>
 ```
-* Modifique `.env` para receber as variáveis de ambiente e substitua para que seu servidor funcione adequadamente
 
 Para acessar via Heroku, acesse o [link da API](https:///)
 
@@ -141,4 +140,4 @@ Funcionalidades da aplicação
 
 * local: http://localhost:5200/api/users/
 
-* Heroku: https://forkids-backend.herokuapp.com/
+* Heroku: https://api-ecoletaa.herokuapp.com/api/users

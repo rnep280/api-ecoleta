@@ -7,7 +7,7 @@
 API desenvolvida como Projeto Final para a conclusão do curso de Backend [{Reprograma}](https://reprograma.com.br/).
 
 
-   > Quem nunca ouviu os mais velhos falarem que antigamente os produtos duravam mais? 🤔 <br> Basta uma rápida pesquisa no Google e vemos que não é apenas mera impressão deles, os eletrônicos de hoje são fabricados com materias que têm uma data de validade reduzida e isso se chama <strong> "obsolescência programada" </strong>. <br>
+   > Quem nunca ouviu os mais velhos falarem que antigamente os produtos duravam mais? 🤔 <br> Basta uma rápida pesquisa no Google e vemos que não é apenas uma mera impressão, os eletrônicos de hoje já são fabricados com uma "validade reduzida", em outras palavras, chamamos isto de <strong> "obsolescência programada" </strong>. <br>
 
    > Com produtos que não terão mais atualizações, ou quebrarão depois de um certo tempo, a população é forçada cada vez mais a consumir desenfreadamente. Desta forma, temos um novo problema: o acúmulo de lixo eletrônico. 
     
